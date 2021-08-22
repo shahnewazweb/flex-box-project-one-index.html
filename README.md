@@ -1,4 +1,4 @@
-<h2>Website design by flexbox</h2>
+<h2>Design By Flexbox</h2>
 I am a freelance WordPress developer. I am an expert on HTML, CSS, Jquery, javascript, PHP, Theme development, oxygen builder, Elementor pro, Divi theme, and Astra theme
 
 Skills: HTML / CSS/ BOOTSTRAP/ JAVASCRIPT/ PHP/ JQUERY
